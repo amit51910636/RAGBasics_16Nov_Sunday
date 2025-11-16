@@ -26,3 +26,13 @@ myenv\Scripts\activate
 uv pip install -r requirements.txt
 
 
+Vscode terminal commands:
+doskey /history
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/amit51910636/RAGBasics_16Nov_Sunday.git
+git push -u origin main
+
+
