@@ -1,0 +1,28 @@
+# Simple RAG using LangChain (0.3.x)
+
+This repo contains:
+- Notebook examples
+- Basic RAG pipeline
+- Vector store setup
+- FAISS / Chroma demonstration
+
+## How to run - C:\Users\simil\OneDrive\Desktop\Multiman\skilldrome\RAG\16-nov-2025-rag\simple-rag-langchain\simple_rag_langchain.ipynb
+
+
+Add your .env file:
+
+OPENAI_API_KEY=your_key
+ 
+1. Create environment:
+   ```bash
+   uv venv myenv
+
+
+uv venv myenv
+
+myenv\Scripts\activate
+
+
+uv pip install -r requirements.txt
+
+
